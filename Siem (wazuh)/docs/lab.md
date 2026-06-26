@@ -1,11 +1,6 @@
-Objetivo:
+## Objetivo:
 
-Monitorar eventos de segurança de um endpoint Windows utilizando Wazuh.
+Monitorar eventos de segurança de um endpoint Windows utilizando o siem Wazuh.
 
 Escopo:
 
-autenticação
-criação de usuários
-processos
-PowerShell
-CMD

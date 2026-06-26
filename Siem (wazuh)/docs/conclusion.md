@@ -1,7 +1,31 @@
-O que foi aprendido.
+## O que foi aprendido.
 
-Dificuldades.
+- 
+- 
+- 
+- 
+- 
 
-Limitações.
+## Dificuldades.
 
-Melhorias futuras.
+- 
+- 
+- 
+- 
+- 
+
+## Limitações.
+
+- 
+- 
+- 
+- 
+- 
+
+## Melhorias futuras.
+
+- 
+- 
+- 
+- 
+- 

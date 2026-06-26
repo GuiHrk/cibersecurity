@@ -1,22 +1,31 @@
-Windows 10
+## Arquitetura do laboratório
+
+    Windows 10
         │
         │
-Wazuh Agent
+    Wazuh Agent
         │
         │
-Ubuntu Server
+    Ubuntu Server
         │
         │
-Dashboard
+    Dashboard ( Wazuh )
 
-IPs
+# IPs
 
-Interfaces
+IP VM Ububtu: 192.168.100.10
 
-Versões
 
-VirtualBox
+# Interfaces
 
-Quantidade de RAM
+# Versões
 
-CPU
+# VirtualBox
+
+Oracle Virtual BOX
+
+# Quantidade de RAM
+
+VM Ubuntu 6 GB RAM
+
+# CPU
