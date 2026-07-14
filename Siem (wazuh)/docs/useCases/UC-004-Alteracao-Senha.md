@@ -8,7 +8,7 @@ Validar se o Wazuh identifica
 
 ## Cenário
 
-Foram realizados os comandos na máquina windows por meio do CMD: net user "NomeDoUsuario" "SenhaDoUsuario" /add
+Foram utilizados por meio do CMD os seguintes comandos para ação de alteração de senha do usuário: net user "NomeDoUsuario" "NovaSenha"
 
 ---
 
