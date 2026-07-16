@@ -21,20 +21,16 @@ Para verficar os usuarios na maquina foi utilizado o comando no CMD : net user
 
 ## Resultado Obtido
 
-Foram identificados eventos relacionados à 
+Foram identificados eventos relacionados à: 
 
 Rule ID:
-
-
+60111
 
 Descrição:
-
-
+User account disabled or deleted
 
 Nível:
-
-
-
+8
 
 ---
 

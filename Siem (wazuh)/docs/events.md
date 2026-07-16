@@ -1,4 +1,4 @@
-# Event IDs Utilizados no Laboratório
+# Event IDs (Windows) Utilizados no Laboratório
 
 | Event ID | Evento | Utilização |
 |----------:|--------|------------|

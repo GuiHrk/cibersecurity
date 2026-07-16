@@ -19,8 +19,12 @@ sudo systemctl start wazuh-dashboard
 ## Listar agentes ativos
 sudo /var/ossec/bin/agent_control -l
 
+## Iniciar agente no windows
 
-## Como ler um alerta:
+restart-service wazuhsvc || Net Start wazuhsvc
+
+
+# Como ler um alerta:
 
 - Exemplo: 
 {
@@ -54,3 +58,13 @@ sudo /var/ossec/bin/agent_control -l
 }
 
 --
+
+# Níveis de Alerta
+
+| Nível | Significado/Severidade | Ação a ser realizada |
+|----------:|--------|------------|
+| 1 - 3 | Informacional | Comportamento normal do sistema|
+| 4 - 6 | Baixo | Anotar e revisar comportamento |
+| 7 - 9 | Médio | Investigar e documentar |
+| 10 - 12 | Alto | Investigar Imediatamente, escalar ao L2(time superior) se reportado como verdadeiro |
+| 13 - 15 | Critico| Escalação Imediata |

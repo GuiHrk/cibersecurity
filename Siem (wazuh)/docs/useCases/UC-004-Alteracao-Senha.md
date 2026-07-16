@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Validar se o Wazuh identifica 
+Validar se o Wazuh identifica alterações sobre 
 
 ---
 
@@ -20,20 +20,16 @@ Foram utilizados por meio do CMD os seguintes comandos para ação de alteraçã
 
 ## Resultado Obtido
 
-Foram identificados eventos relacionados à 
+Foram identificados eventos relacionados à:
 
 Rule ID:
-
-
+60110
 
 Descrição:
-
-
+User account changed
 
 Nível:
-
-
-
+8
 
 ---
 
