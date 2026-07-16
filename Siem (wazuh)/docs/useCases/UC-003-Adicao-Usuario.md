@@ -64,4 +64,4 @@ Esse tipo de alerta pode auxiliar na identificação de:
 
 ## Lições Aprendidas
 
-Foi possível compreender sobre os alertas gerados provenientes por meio da ação de inserção de um novo usuário. Desta maneeira, seguindo a partir do nível da severidade categorizada na documentação do ocorrido. 
+Foi possível compreender sobre os alertas gerados provenientes por meio da ação de inserção de um novo usuário. Desta maneira, seguindo a partir do nível da severidade categorizada na documentação do ocorrido. 

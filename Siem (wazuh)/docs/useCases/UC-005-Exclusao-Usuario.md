@@ -50,13 +50,11 @@ Inserir:
 
 Esse tipo de alerta pode auxiliar na identificação de:
 
-- 
+- Possível Ataque de negação de serviçõs (DOS). Se gerado a exclusão em massa de usuários, paralisando operações de login. 
 
-- 
+- Possível Ataque interno sobre a exclusão de contas críticas para o negócios (Como contas administradoras ou contas de serviço), interrompendo assim as operções em seu fluxo natural.
 
-- 
-
--
+- Possível queima de arquivos ou eliminação de evidências de atacantes sobre ações indevidas realizadas ou sobre possíveis ataques realizados. Dificultando assim o fluxo de investigação sobre os eventos gerados anteriormente. 
 
 ---
 

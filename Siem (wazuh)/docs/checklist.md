@@ -42,8 +42,8 @@
 
 - [V ] Login inválido
 
-- [ ] Criação de usuário
+- [V ] Criação de usuário
 
-- [ ] Alteração de senha
+- [V ] Alteração de senha
 
-- [ ] Exclusão de usuário
+- [V ] Exclusão de usuário
