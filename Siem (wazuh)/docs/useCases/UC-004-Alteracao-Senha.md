@@ -38,7 +38,7 @@ Nível:
 ## Evidências
 
 ![Dashboard](../../images/dashboard/TesteAlterSenha.JPG)
-![Dashboard](../../images/dashboard/LogAlteração.JPG)
+![Log](../../images/dashboard/LogAlteração.JPG)
 
 ---
 
