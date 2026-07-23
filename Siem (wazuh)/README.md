@@ -1,4 +1,4 @@
-# Arquitetura do Laboratório
+# Laboratório SIEM Wazuh
 
 ## Objetivo
 
@@ -37,9 +37,8 @@ Este laboratório foi desenvolvido para estudar monitoramento de endpoints Windo
 | Item | Valor |
 |------|------|
 | Sistema Operacional | Windows 10 |
-| Hostname | |
-| Usuário | |
-| Endereço IP | |
+| Hostname | WindowsAttacker |
+| Endereço IP | 192.168.100.10 |
 
 ---
 

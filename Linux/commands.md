@@ -139,3 +139,12 @@ o = indica que serão realizadas alterações nas permissões de outros.
 "-" indica que o comando irá retirar permissões
 
 Ou seja, no comando está sendo adicionado as permissões de gravação ao grupo, e retirando as permissões de leitura de outros. 
+
+---
+**O primeiro caractere** indica o tipo de arquivo. O dindica que é um diretório. Quando esse caractere é um hífen ( -), trata-se de um arquivo normal.
+
+**Os caracteres 2 a 4** indicam as permissões de leitura ( r), escrita ( w) e execução ( x) do usuário. Quando um desses caracteres é um hífen ( -), indica que essa permissão não foi concedida ao usuário.
+
+**Os caracteres 5 a 7** indicam as permissões de leitura ( r), escrita ( w) e execução ( x) para o grupo. Quando um desses caracteres é um hífen ( -), indica que essa permissão não foi concedida ao grupo.
+
+**Os caracteres 8 a 10** indicam as permissões de leitura ( r), gravação ( w) e execução ( x) para o tipo de proprietário "other". Este tipo de proprietário consiste em todos os outros usuários do sistema, exceto o usuário e o grupo. Quando um desses caracteres é um hífen ( -), isso indica que essa permissão não foi concedida para "other".
